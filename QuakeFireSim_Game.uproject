@@ -78,6 +78,11 @@
 		{
 			"Name": "AIAssistant",
 			"Enabled": true
+		},
+		{
+			"Name": "TextureResizeSC",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c24899ea760042709748b9853bbc946c"
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
