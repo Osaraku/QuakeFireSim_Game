@@ -92,6 +92,10 @@
 		{
 			"Name": "ProceduralVegetationEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
