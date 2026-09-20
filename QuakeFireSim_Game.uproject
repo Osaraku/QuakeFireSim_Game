@@ -98,12 +98,13 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Fab",
+			"Name": "Bridge",
 			"Enabled": false
 		},
 		{
-			"Name": "Bridge",
-			"Enabled": false
+			"Name": "SimpleWaypoint",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.fab.com/listings/258a1efa-9997-4fa6-b68d-50a7d7324030"
 		}
 	],
 	"TargetPlatforms": [
